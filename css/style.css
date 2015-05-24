@@ -1,0 +1,51 @@
+body {
+  background-color: #eee;
+  font-family: Calibri;
+  color: #616163;
+}
+
+.title {
+  background-color: #5cc8ff;
+  color: #fff;
+  font-weight: 400;
+  text-align: center;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-top: 1.5em;
+  padding-bottom: 1.5em;
+  font-size: 3.0em;
+}
+
+.concept {
+  background-color: #fff;
+  margin: 3% 5% 3% 5%;
+  padding: 10px 50px 10px 50px;
+}
+
+h2 {
+  text-align: center;
+  border-bottom: 1px solid #616163;
+  padding-bottom: 15px;
+}
+
+.link a {
+  color: #80cbf7;
+  text-decoration: none;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.define {
+  font-weight: 800;
+}
+
+img {
+  width: 45%;
+  height: 45%;
+}
+
+.image {
+  text-align: center;
+}
